@@ -1,2 +1,2 @@
-# Task for course React
+# Tasks for course React
 ***    
