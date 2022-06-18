@@ -1,0 +1,23 @@
+.rowHeader{
+    border-bottom: 2px solid;
+    border-top: 2px solid;
+    margin-bottom: 5px;
+    background: #b0aeae;
+    padding: 5px;
+}
+
+.cryptoHeader{
+    width: 100px;
+}
+
+.usdHeader{
+    width: 150px;
+}
+
+.statusHeader{
+    width: 30px;
+}
+
+.removeHeader{
+    width: 100px;
+}

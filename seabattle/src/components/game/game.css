@@ -1,0 +1,40 @@
+body{
+    padding-top: 100px;
+}
+
+.center{
+    text-align: center;
+}
+
+button{
+    display: block;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width: 100px;
+    background: #ffdd00;
+    padding: 10px 15px;
+}
+
+.button-panel{
+    margin-right: 100px;
+    display: flex;
+    margin: 0 auto 50px auto;
+    justify-content: flex-start;
+}
+
+.game-board{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    width: 600px; 
+    margin: 0px auto 30px auto;
+}
+
+.game-board-hidden{
+    visibility: hidden;
+}
+
+.game-board-visually{
+    display: flex; 
+    justify-content: space-between;
+}

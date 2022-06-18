@@ -1,0 +1,1 @@
+export const countShip: number = 8;

@@ -1,0 +1,19 @@
+.add{
+    background: url('../../images/plus.png');
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    border: 0;
+}
+
+.input_add{
+    width: 200px;
+    height: 30px;
+    box-sizing: border-box;
+    margin-right: 5px;
+}
+
+.row-input{
+    display: flex;
+    align-items: center;
+}

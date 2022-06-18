@@ -1,0 +1,58 @@
+.row{
+    margin-bottom: 5px;
+}
+
+tr{
+    border-bottom: 1px solid;
+}
+
+table{
+    border-collapse: collapse;
+    margin-bottom: 5px;
+}
+
+.cryptoName{
+    width: 100px;
+    text-align: left;
+}
+
+.usd{
+    width: 100px;
+    text-align: center;
+}
+
+.grow{
+    width: 100px;
+    height: 30px;
+    margin: auto auto;
+    display: flex;
+    align-items: center;
+}
+
+.crypto-status{
+    display: flex;
+    align-self: center;
+    width: 30px;
+    height: 30px;
+    margin: auto auto;
+}
+
+.crypto-status_up{
+    background: url('../../images/increasing.png');
+    background-size: cover;
+}
+
+.crypto-status_down{
+    background: url('../../images/reduce.png');
+    background-size: cover;
+}
+
+.remove{
+    background: url('../../images/remove.png');
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    border: 0;
+    margin-left: auto;
+    display: block;
+}
